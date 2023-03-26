@@ -56,5 +56,25 @@ Prompts in the Creative category are generally for tasks like writing, editing, 
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="creative/writing-assistant.md">Writing assistant - fiction books (v1)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            ChatGPT (GPT-4 only)
+          </li>
+        </ul>
+      </td>
+      <td>
+        <p>
+          File: <a href="creative/writing-assistant.md"><code>./creative/writing-assistant.md</code></a>
+        </p>
+        <p>
+          This prompt provides the AI with a list of steps to follow. The steps instruct the AI to generate a book based on instructions from the user. The book is generated chapter by chapter, paragraph by paragraph. On request, the assistant can return its memory in JSON format, and make changes to the memory.
+        </p>
+      </td>
+    </tr>
   <tbody>
 </table>
