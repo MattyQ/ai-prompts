@@ -35,7 +35,7 @@ Prompts in the Creative category are generally for tasks like writing, editing, 
   <tbody>
     <tr>
       <td>
-        <a href="creative/storybook.md">Children's book - 500 words - ages 5 to 10 (v1)</a>
+        <a href="creative/storybook.md">Children's book - 500 words - ages 5 to 10</a>
       </td>
       <td>
         <ul>
@@ -58,7 +58,7 @@ Prompts in the Creative category are generally for tasks like writing, editing, 
     </tr>
     <tr>
       <td>
-        <a href="creative/writing-assistant.md">Writing assistant - fiction books (v1)</a>
+        <a href="creative/writing-assistant.md">Writing assistant - fiction books</a>
       </td>
       <td>
         <ul>
